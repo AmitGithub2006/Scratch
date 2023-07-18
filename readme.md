@@ -1,10 +1,12 @@
-<h2>Screenshot</h2>
-<img src="./ProjectSnap.png" />
-<h3>Blocks</h3>
-<img src="./Alien.jpg" />
+# Screenshot
 
-<h3>Solution</h3>
-<pre>
+### Alien
+### Blocks
+![Alien](/Alien.jpg)
+
+### Solution
+
+``` javascript 
 "solution": {
     "targets": [
       {
@@ -43,4 +45,4 @@
       }
     ]
   }
-</pre>
+ ```
